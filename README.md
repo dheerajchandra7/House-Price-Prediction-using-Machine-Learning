@@ -50,8 +50,7 @@ house-price-prediction/
 ├── model.pkl          # Trained machine learning model
 ├── requirements.txt   # Dependencies
 ├── README.md          # Project documentation
-├── data/              # Dataset (optional)
-├── training/          # Model training scripts (optional)
+├── data/              # Dataset 
 ```
 
 ---
@@ -112,11 +111,6 @@ streamlit run app.py
 ✔ Covers end-to-end ML workflow
 ✔ Helps understand real-world applications
 
----
-
-## 📣 SEO Keywords
-
-House Price Prediction, Machine Learning Project, Streamlit App, Regression Model, Data Science Portfolio Project, Python ML App
 
 ---
 
