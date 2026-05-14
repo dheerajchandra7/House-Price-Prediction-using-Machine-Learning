@@ -1,6 +1,5 @@
 # House-Price-Prediction-using-Machine-Learning
 A machine learning-powered web app that predicts house prices with real-time user input and interactive visualization using Streamlit.
-Here’s a **professional, SEO-friendly, and beginner-friendly README.md** for your House Price Prediction project. It includes strong hooks, clear explanation, and GitHub-ready formatting 👇
 
 ---
 
@@ -103,13 +102,6 @@ streamlit run app.py
 * Add charts & visualizations
 
 ---
-
-## 💡 Why This Project?
-
-✔ Perfect for beginners in Data Science
-✔ Great for portfolio & resume
-✔ Covers end-to-end ML workflow
-✔ Helps understand real-world applications
 
 
 ---
